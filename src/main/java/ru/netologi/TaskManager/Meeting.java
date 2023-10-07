@@ -1,4 +1,4 @@
-package org.example;
+package ru.netologi.TaskManager;
 
 public class Meeting extends Task {
     protected String topic;

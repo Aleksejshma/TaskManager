@@ -1,4 +1,4 @@
-package org.example;
+package ru.netologi.TaskManager;
 
 public class SimpleTask extends Task {
     protected String title;

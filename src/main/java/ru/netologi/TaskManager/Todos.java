@@ -1,4 +1,4 @@
-package org.example;
+package ru.netologi.TaskManager;
 
 public class Todos {
     private Task[] tasks = new Task[0];

@@ -1,4 +1,4 @@
-package org.example;
+package ru.netologi.TaskManager;
 
 public class Epic extends Task {
     protected String[] subtasks;
